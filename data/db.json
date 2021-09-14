@@ -1,16 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "Why do we use it ?\nIt is a long established fact that a reader will be distracted",
-            "author": "somi",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "Why do we use it ?\nIt is a long established fact that a reader will be distracted",
-            "author": "rami",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.\n The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here,\n content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum\n as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions\n have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n Where does it come from?\n Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,\n making it over 2000 years old.Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more\n obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered\n the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of\n Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the\n 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum”\n by Cicero are also\n reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham",
+      "author": "somi",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.\n The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here,\n content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum\n as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions\n have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n Where does it come from?\n Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,\n making it over 2000 years old.Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more\n obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered\n the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of\n Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the\n 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum”\n by Cicero are also\n reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham",
+      "author": "rami",
+      "id": 2
+    },
+    {
+      "title": "Olympic Games",
+      "body": "The modern Olympic Games or Olympics (French: Jeux olympiques)[1][2] are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating.[3] The Olympic Games are normally held every four years, alternating between the Summer and Winter Olympics every two years in the four-year period.\n\nTheir creation was inspired by the ancient Olympic Games (Ancient Greek: Ὀλυμπιακοί Ἀγῶνες), held in Olympia, Greece from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The IOC is the governing body of the Olympic Movement,[definition needed] with the Olympic Charter defining its structure and authority.",
+      "author": "rami",
+      "id": 4
+    },
+    {
+      "title": "Short about Olympic",
+      "body": " Olympics every two years in the four-year period. Their creation was inspired by the ancient Olympic Games (Ancient Greek: Ὀλυμπιακοί Ἀγῶνες), held in Olympia, Greece from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The IOC is the governing body of the Olympic Movement,",
+      "author": "somi",
+      "id": 6
+    }
+  ]
 }
